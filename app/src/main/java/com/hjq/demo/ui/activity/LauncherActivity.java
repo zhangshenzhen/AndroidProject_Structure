@@ -28,7 +28,7 @@ import butterknife.BindView;
  */
 public class LauncherActivity extends MyActivity
         implements OnPermission, Animation.AnimationListener {
-
+    /*什么鬼*/
     @BindView(R.id.iv_launcher_bg)
     View mImageView;
     @BindView(R.id.iv_launcher_icon)
